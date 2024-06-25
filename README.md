@@ -1,9 +1,9 @@
 # AIRBnb-Dashboard
 
-Introduction
+# Introduction
 The objective of this analysis is to determine the best location to buy a home for rental purposes, based on an evaluation of pricing trends, revenue potential, and customer demand.
 
-Data Overview
+# Data Overview
 The project utilizes several datasets:
 
 Listings and Calendar Data: Tracks the availability and pricing of listings over time.
